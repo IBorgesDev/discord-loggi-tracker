@@ -1,1 +1,1 @@
-Thats a rust project btw
+Thats a rust project btw ( a toy one )
